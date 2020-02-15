@@ -24,7 +24,7 @@
 
 <h4>Ссылки на лекцию:</h4>
 
-- [pdf](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-intro.pdf)
-- [исходный ноутбук](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-intro.ipynb)
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-intro.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-intro.ipynb)
 
 <h2>Лекция 2: ToDo</h2>
