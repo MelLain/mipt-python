@@ -2,6 +2,9 @@
 
 Курс преподаётся студентам третьего года обучения кафедры ИАД факультета ФУПМ МФТИ (ГУ).
 
+__Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/great.mel), [machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=Участник:Mapishev))
+
+
 <h2>Неделя 1: Введение в язык программирования Python</h2>
 
 <h4>Содержание занятия:</h4>
