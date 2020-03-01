@@ -31,4 +31,28 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-intro.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-intro.ipynb)
 
-<h2>Лекция 2: ToDo</h2>
+<h2>Неделя 2: Модель памяти, операции над встроенными типами данных</h2>
+
+<h4>Содержание занятия:</h4>
+
+- стадии жизни объекта
+- сборщик мусора, циклические и слабые ссылки, гарантии
+- изменяемые и неизменяемые объекты, ссылки на них
+- поверхностное и глубокое копирование
+- идентификатор объекта, операторы равенства и идентичности
+- атрибуты объекта, функция dir
+- числовые типы данных
+- побитовые операции
+- операции над множествами
+- продвинутое индексирование
+- форматирование строк
+- регулярные выражения, модули re и regex
+- подробнее о файлах, модуль os.path
+
+<h4>Ссылки на лекцию:</h4>
+
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-types.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-types.ipynb)
+
+<h2>Лекция 3: ToDo</h2>
+
