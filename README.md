@@ -54,5 +54,26 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-types.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-types.ipynb)
 
-<h2>Лекция 3: ToDo</h2>
+<h2>Неделя 3: </h2>
+
+<h4>Содержание занятия: Пользовательские и встроенные функции, итераторы и генераторы</h4>
+
+- функции range, zip, enumerate
+- базовый синтаксис функций, возвращаемое значение, рекурсия
+- передача аргументов в функцию
+- области видимости переменных, глобальные переменные, правило LEGB
+- ключевые слова global и nonlocal
+- функции-замыкания
+- анонимные функции
+- функции map, filter, sorted, functools.reduce
+- итерирование, функции iter и next
+- генераторные функции, оператор yield
+- модуль itertools
+
+<h4>Ссылки на лекцию:</h4>
+
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-functions.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-functions.ipynb)
+
+<h2>Лекция 4: ToDo</h2>
 
