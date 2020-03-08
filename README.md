@@ -54,9 +54,9 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-types.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-types.ipynb)
 
-<h2>Неделя 3: </h2>
+<h2>Неделя 3: Пользовательские и встроенные функции, итераторы и генераторы</h2>
 
-<h4>Содержание занятия: Пользовательские и встроенные функции, итераторы и генераторы</h4>
+<h4>Содержание занятия: </h4>
 
 - функции range, zip, enumerate
 - базовый синтаксис функций, возвращаемое значение, рекурсия
@@ -75,5 +75,27 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-functions.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-functions.ipynb)
 
-<h2>Лекция 4: ToDo</h2>
+<h2>Неделя 4: Основы ООП, особенности ООП в Python</h2>
+
+<h4>Содержание занятия: </h4>
+
+- парадигма объектно-ориентированного программирования
+- понятия класса, объекта класса
+- понятия интерфейса и абстрактного класса
+- особенности реализации принципов ООП в Python
+- методы __init__ и __new__, параметр self
+- методы и атрибуты, функции для работы с атрибутами
+- магические методы классов, их перегрузка, менеджеры контекста
+- наследование
+- перегрузка методов
+- полиморфизм, duck typing
+- сохранение объектов классов, модуль pickle
+- исключения, обработка исключений
+
+<h4>Ссылки на лекцию:</h4>
+
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-classes.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-classes.ipynb)
+
+<h2>Неделя 5: ToDo</h2>
 
