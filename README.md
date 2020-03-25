@@ -75,6 +75,9 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-functions.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-functions.ipynb)
 
+<h4>Ссылка на первое практическое задание:</h4>
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-intro.ipynb)
+
 <h2>Неделя 4: Основы ООП, особенности ООП в Python</h2>
 
 <h4>Содержание занятия: </h4>
@@ -97,5 +100,28 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-classes.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-classes.ipynb)
 
-<h2>Неделя 5: ToDo</h2>
+<h2>Неделя 5: Продвинутое использование ООП, проектирование кода</h2>
 
+<h4>Содержание занятия: </h4>
+
+- проектирование кода
+- виды отношений между классами
+- принципы SOLID
+- пример применения принципов для улучшения кода
+- множественное наследование, порядок распознавания методов
+- вызов родительских методов, функция super
+- статические методы классов
+- понятие шаблона проектирования
+- шаблон singleton
+- шаблон mixin
+- шаблоны фасад, адаптер, DAO
+- понятие фабрики, шаблон простая фабрика
+- шаблоны фабричный метод и абстрактная фабрика
+- шаблон декоратор
+- декораторы функций и классов в Python
+- метаклассы в Python
+
+<h4>Ссылки на лекцию:</h4>
+
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-design.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-design.ipynb)
