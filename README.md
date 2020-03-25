@@ -76,6 +76,7 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-functions.ipynb)
 
 <h4>Ссылка на первое практическое задание:</h4>
+
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-intro.ipynb)
 
 <h2>Неделя 4: Основы ООП, особенности ООП в Python</h2>
