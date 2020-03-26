@@ -126,3 +126,5 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-design.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-design.ipynb)
+
+<h2>Неделя 6: ToDo</h2>
