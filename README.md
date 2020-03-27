@@ -128,6 +128,7 @@ __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/gre
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-design.ipynb)
 
 <h4>Ссылка на второе практическое задание:</h4>
+
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-oop.ipynb)
 
 <h2>Неделя 6: ToDo</h2>
