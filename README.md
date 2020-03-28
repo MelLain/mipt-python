@@ -4,6 +4,15 @@
 
 __Автор:__ Мурат Апишев ([facebook](https://www.facebook.com/great.mel), [machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=Участник:Mapishev))
 
+__Правила курса__:
+
+- Курс проводится в формате лекций + практические задания
+- Зачёт по курсу выставляется по результатам выполнения заданий
+- Для получения зачёта необходимо выполнить __все__ практические задания и получить за них в сумме __не менее 35 баллов__.
+
+<h4>Результаты выполнения практических заданий:</h4>
+
+- [Задание 1](https://docs.google.com/spreadsheets/d/1xnf1n7dusbb_k_USNXhCHTvQxmhcNIgyX6LaluCg2ek/edit?usp=sharing)
 
 <h2>Неделя 1: Введение в язык программирования Python</h2>
 
