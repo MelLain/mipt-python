@@ -10,6 +10,11 @@ __Правила курса__:
 - Зачёт по курсу выставляется по результатам выполнения заданий
 - Для доступа к зачёту необходимо выполнить __все__ практические задания и получить за них в сумме __не менее 35 баллов__. Форма самого зачёта будет определена в дальнейшем, для гарантированного получения зачёта автоматом нужно набрать в сумме __не менее 45 баллов__.
 
+<h4>Формулировки практических заданий:</h4>
+
+- [Задание 1](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-intro.ipynb)
+- [Задание 2](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-oop.ipynb)
+
 <h4>Результаты выполнения практических заданий:</h4>
 
 - [Задание 1](https://docs.google.com/spreadsheets/d/1xnf1n7dusbb_k_USNXhCHTvQxmhcNIgyX6LaluCg2ek/edit?usp=sharing)
@@ -84,10 +89,6 @@ __Правила курса__:
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-functions.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-functions.ipynb)
 
-<h4>Ссылка на первое практическое задание:</h4>
-
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-intro.ipynb)
-
 <h2>Занятие 4: Основы ООП, особенности ООП в Python</h2>
 
 <h4>Содержание: </h4>
@@ -135,10 +136,6 @@ __Правила курса__:
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-design.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-design.ipynb)
-
-<h4>Ссылка на второе практическое задание:</h4>
-
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-oop.ipynb)
 
 <h2>Занятие 6: Представление, обработка, анализ и визуализация данных</h2>
 
