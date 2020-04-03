@@ -14,9 +14,9 @@ __Правила курса__:
 
 - [Задание 1](https://docs.google.com/spreadsheets/d/1xnf1n7dusbb_k_USNXhCHTvQxmhcNIgyX6LaluCg2ek/edit?usp=sharing)
 
-<h2>Неделя 1: Введение в язык программирования Python</h2>
+<h2>Занятие 1: Введение в язык программирования Python</h2>
 
-<h4>Содержание занятия:</h4>
+<h4>Содержание:</h4>
 
 - мотивация изучения языка
 - язык Python, история, особенности, сравнение с другими языками
@@ -40,9 +40,9 @@ __Правила курса__:
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-intro.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-intro.ipynb)
 
-<h2>Неделя 2: Модель памяти, операции над встроенными типами данных</h2>
+<h2>Занятие 2: Модель памяти, операции над встроенными типами данных</h2>
 
-<h4>Содержание занятия:</h4>
+<h4>Содержание:</h4>
 
 - стадии жизни объекта
 - сборщик мусора, циклические и слабые ссылки, гарантии
@@ -63,9 +63,9 @@ __Правила курса__:
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-types.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-types.ipynb)
 
-<h2>Неделя 3: Пользовательские и встроенные функции, итераторы и генераторы</h2>
+<h2>Занятие 3: Пользовательские и встроенные функции, итераторы и генераторы</h2>
 
-<h4>Содержание занятия: </h4>
+<h4>Содержание: </h4>
 
 - функции range, zip, enumerate
 - базовый синтаксис функций, возвращаемое значение, рекурсия
@@ -88,9 +88,9 @@ __Правила курса__:
 
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-intro.ipynb)
 
-<h2>Неделя 4: Основы ООП, особенности ООП в Python</h2>
+<h2>Занятие 4: Основы ООП, особенности ООП в Python</h2>
 
-<h4>Содержание занятия: </h4>
+<h4>Содержание: </h4>
 
 - парадигма объектно-ориентированного программирования
 - понятия класса, объекта класса
@@ -110,9 +110,9 @@ __Правила курса__:
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-classes.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-classes.ipynb)
 
-<h2>Неделя 5: Продвинутое использование ООП, проектирование кода</h2>
+<h2>Занятие 5: Продвинутое использование ООП, проектирование кода</h2>
 
-<h4>Содержание занятия: </h4>
+<h4>Содержание: </h4>
 
 - проектирование кода
 - виды отношений между классами
@@ -140,4 +140,35 @@ __Правила курса__:
 
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-oop.ipynb)
 
-<h2>Неделя 6: ToDo</h2>
+<h2>Занятие 6: Представление, обработка, анализ и визуализация данных</h2>
+
+<h4>Содержание: </h4>
+
+- представление плотных матриц в Python, базовые операции
+- библиотека numpy, описание
+- методы создания массива numpy.ndarray
+- классы ndarray и matrix
+- изменение размерности массивов
+- индексирование массовов
+- арфметические операции над массивами, broadcasting
+- матричные операции над массивами, сравнение с наивной реализацией
+- агрегирующие функции
+- конкатенация массивов
+- примеры дополнительных полезные функции numpy
+- примеры постановок и решений задач на векторные и матричные операции
+- DataFrame в библиотеке pandas
+- доступ к элементам, индесирование
+- pandas.DataSeries, операции над столбцами, выборка по условию
+- создание и редактирование DataFrame, итерирование, конкатенация
+- примеры полезных атрибутов и функций DataFrame
+- базовая визуализация на основе DataFrame
+- библиотека Matplotlib
+- простейшие графики в matplotlib, форматирование
+- диаграммы scatter для отображения двумерной выборки
+
+<h4>Ссылки на лекцию:</h4>
+
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-data.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-data.ipynb)
+
+<h2>Занятие 7: ToDo</h2>
