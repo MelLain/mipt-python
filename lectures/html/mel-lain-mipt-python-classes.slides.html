@@ -14140,7 +14140,7 @@ Set DB to read-only mode
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[68]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">class</span> <span class="nc">Parent</span><span class="p">:</span>
@@ -14154,8 +14154,7 @@ Set DB to read-only mode
 <span class="k">class</span> <span class="nc">Child</span><span class="p">(</span><span class="n">Parent</span><span class="p">):</span>
     <span class="k">pass</span>
     
-<span class="nb">print</span><span class="p">(</span><span class="n">Parent</span><span class="p">()</span><span class="o">.</span><span class="n">get_value</span><span class="p">())</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">Child</span><span class="p">()</span><span class="o">.</span><span class="n">get_value</span><span class="p">())</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">Parent</span><span class="p">()</span><span class="o">.</span><span class="n">get_value</span><span class="p">(),</span> <span class="n">Child</span><span class="p">()</span><span class="o">.</span><span class="n">get_value</span><span class="p">())</span>
 
 <span class="nb">print</span><span class="p">(</span><span class="n">Child</span><span class="p">()</span><span class="o">.</span><span class="vm">__dict__</span><span class="p">)</span>
 </pre></div>
@@ -14174,8 +14173,7 @@ Set DB to read-only mode
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>20
-20
+<pre>20 20
 {&#39;_value&#39;: 10, &#39;_Parent__value&#39;: 20}
 </pre>
 </div>
@@ -14184,6 +14182,18 @@ Set DB to read-only mode
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li><code>__dict__</code> содержит информацию об атрибутах объекта, атрибутов класса этого объекта (или родителей этого класса) там нет<br><br></li>
+<li>При конструировании объекта класса-наследника создаётся один объект, в котором выставляют атрибуты все вызовы <code>__init__</code> в иерархии наследования (если они вызывались снизу вверх с помощью <code>super()</code><br><br></li>
+<li>Поэтому нет разницы, добавлены были атрибуты в <code>__init__</code> родительского класса или класса-наследника - это всё равно атрибуты этого объекта, они будут содержаться в его <code>__dict__</code></li>
+</ul>
+
+</div>
+</div>
 </div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
