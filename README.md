@@ -12,8 +12,9 @@ __Правила курса__:
 
 <h4>Формулировки практических заданий:</h4>
 
-- [Задание 1](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-intro.ipynb)
-- [Задание 2](https://github.com/MelLain/mipt-python/blob/master/tasks/mel-lain-mipt-python-task-oop.ipynb)
+- [Задание 1](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-intro.ipynb)
+- [Задание 2](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-oop.ipynb)
+- [Задание 2](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-ml.ipynb)
 
 <h4>Результаты выполнения практических заданий:</h4>
 
@@ -42,8 +43,8 @@ __Правила курса__:
 
 <h4>Ссылки на лекцию:</h4>
 
-- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-intro.pdf)
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-intro.ipynb)
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-intro.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-intro.ipynb)
 
 <h2>Занятие 2: Модель памяти, операции над встроенными типами данных</h2>
 
@@ -65,8 +66,8 @@ __Правила курса__:
 
 <h4>Ссылки на лекцию:</h4>
 
-- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-types.pdf)
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-types.ipynb)
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-types.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-types.ipynb)
 
 <h2>Занятие 3: Пользовательские и встроенные функции, итераторы и генераторы</h2>
 
@@ -86,8 +87,8 @@ __Правила курса__:
 
 <h4>Ссылки на лекцию:</h4>
 
-- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-functions.pdf)
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-functions.ipynb)
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-functions.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-functions.ipynb)
 
 <h2>Занятие 4: Основы ООП, особенности ООП в Python</h2>
 
@@ -108,8 +109,8 @@ __Правила курса__:
 
 <h4>Ссылки на лекцию:</h4>
 
-- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-classes.pdf)
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-classes.ipynb)
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-classes.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-classes.ipynb)
 
 <h2>Занятие 5: Продвинутое использование ООП, проектирование кода</h2>
 
@@ -134,8 +135,8 @@ __Правила курса__:
 
 <h4>Ссылки на лекцию:</h4>
 
-- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-design.pdf)
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-design.ipynb)
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-design.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-design.ipynb)
 
 <h2>Занятие 6: Представление, обработка, анализ и визуализация данных</h2>
 
@@ -165,7 +166,7 @@ __Правила курса__:
 
 <h4>Ссылки на лекцию:</h4>
 
-- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mel-lain-mipt-python-data.pdf)
-- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mel-lain-mipt-python-data.ipynb)
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-data.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-data.ipynb)
 
 <h2>Занятие 7: ToDo</h2>
