@@ -169,4 +169,33 @@ __Правила курса__:
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-data.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-data.ipynb)
 
-<h2>Занятие 7: ToDo</h2>
+<h2>Занятие 7: Введение в инструменты для оптимизации и машинного обучения</h2>
+
+<h4>Содержание: </h4>
+
+- введение в модуль scipy.linalg
+- введение в модуль scipy.optimize
+- введение в модуль scipy.stats
+- понятие статистического теста, T-критерий
+- разреженные матрицы в scipy.sparse
+- напоминание основных базовых идей ML, библиотека sklearn
+- напоминание: линейные модели, метрика качества классификации
+- линейные модели в sklearn, выбор модели
+- кроссвалидация, подбор параметров по сетке, подсчёт метрик
+- лог-регрессия, линейный SVM, Kernel SVM в sklearn
+- особенности данных для линейных моделей
+- напоминание: метрические модели (knn, k-means)
+- проблемы k-means, частичное обучение в sklearn
+- напоминание: решающие деревья
+- виды композиций в sklearn
+- Random Forest в sklearn, основные параметры RF
+- out-of-bag score для RF, оценка важности признаков
+- градиентный бустинг в sklearn, основные параметры
+- библиотека xgboost для градиентного бустинга, важные параметры
+- библиотека catboost для градиентного бустинга
+- задача понижения размерности, SVD разложение в sklearn
+
+<h4>Ссылки на лекцию:</h4>
+
+- [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-ml.pdf)
+- [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-ml.ipynb)
