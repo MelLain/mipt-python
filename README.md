@@ -14,7 +14,7 @@ __Правила курса__:
 
 - [Задание 1](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-intro.ipynb)
 - [Задание 2](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-oop.ipynb)
-- [Задание 2](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-ml.ipynb)
+- [Задание 3](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-ml.ipynb)
 
 <h4>Результаты выполнения практических заданий:</h4>
 
