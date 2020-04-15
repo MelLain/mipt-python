@@ -18,7 +18,7 @@ __Правила курса__:
 
 <h4>Результаты выполнения практических заданий:</h4>
 
-- [Задание 1](https://docs.google.com/spreadsheets/d/1xnf1n7dusbb_k_USNXhCHTvQxmhcNIgyX6LaluCg2ek/edit?usp=sharing)
+- [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1xnf1n7dusbb_k_USNXhCHTvQxmhcNIgyX6LaluCg2ek/edit?usp=sharing)
 
 <h2>Занятие 1: Введение в язык программирования Python</h2>
 
