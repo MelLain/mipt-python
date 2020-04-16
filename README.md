@@ -20,7 +20,7 @@ __Правила курса__:
 
 - [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1xnf1n7dusbb_k_USNXhCHTvQxmhcNIgyX6LaluCg2ek/edit?usp=sharing)
 
-<h2>Занятие 1: Введение в язык программирования Python</h2>
+<h2>Тема 1: Введение в язык программирования Python</h2>
 
 <h4>Содержание:</h4>
 
@@ -41,12 +41,12 @@ __Правила курса__:
 - импорт модулей
 - функции exec и eval
 
-<h4>Ссылки на лекцию:</h4>
+<h4>Ссылки на материалы:</h4>
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-intro.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-intro.ipynb)
 
-<h2>Занятие 2: Модель памяти, операции над встроенными типами данных</h2>
+<h2>Тема 2: Модель памяти, операции над встроенными типами данных</h2>
 
 <h4>Содержание:</h4>
 
@@ -64,12 +64,12 @@ __Правила курса__:
 - регулярные выражения, модули re и regex
 - подробнее о файлах, модуль os.path
 
-<h4>Ссылки на лекцию:</h4>
+<h4>Ссылки на материалы:</h4>
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-types.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-types.ipynb)
 
-<h2>Занятие 3: Пользовательские и встроенные функции, итераторы и генераторы</h2>
+<h2>Тема 3: Пользовательские и встроенные функции, итераторы и генераторы</h2>
 
 <h4>Содержание: </h4>
 
@@ -85,12 +85,12 @@ __Правила курса__:
 - генераторные функции, оператор yield
 - модуль itertools
 
-<h4>Ссылки на лекцию:</h4>
+<h4>Ссылки на материалы:</h4>
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-functions.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-functions.ipynb)
 
-<h2>Занятие 4: Основы ООП, особенности ООП в Python</h2>
+<h2>Тема 4: Основы ООП, особенности ООП в Python</h2>
 
 <h4>Содержание: </h4>
 
@@ -107,12 +107,12 @@ __Правила курса__:
 - сохранение объектов классов, модуль pickle
 - исключения, обработка исключений
 
-<h4>Ссылки на лекцию:</h4>
+<h4>Ссылки на материалы:</h4>
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-classes.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-classes.ipynb)
 
-<h2>Занятие 5: Продвинутое использование ООП, проектирование кода</h2>
+<h2>Тема 5: Продвинутое использование ООП, проектирование кода</h2>
 
 <h4>Содержание: </h4>
 
@@ -133,12 +133,12 @@ __Правила курса__:
 - декораторы функций и классов в Python
 - метаклассы в Python
 
-<h4>Ссылки на лекцию:</h4>
+<h4>Ссылки на материалы:</h4>
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-design.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-design.ipynb)
 
-<h2>Занятие 6: Представление, обработка, анализ и визуализация данных</h2>
+<h2>Тема 6: Представление, обработка, анализ и визуализация данных</h2>
 
 <h4>Содержание: </h4>
 
@@ -164,12 +164,12 @@ __Правила курса__:
 - простейшие графики в matplotlib, форматирование
 - диаграммы scatter для отображения двумерной выборки
 
-<h4>Ссылки на лекцию:</h4>
+<h4>Ссылки на материалы:</h4>
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-data.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-data.ipynb)
 
-<h2>Занятие 7: Введение в инструменты для оптимизации и машинного обучения</h2>
+<h2>Тема 7: Введение в инструменты для оптимизации и машинного обучения</h2>
 
 <h4>Содержание: </h4>
 
@@ -195,7 +195,7 @@ __Правила курса__:
 - библиотека catboost для градиентного бустинга
 - задача понижения размерности, SVD разложение в sklearn
 
-<h4>Ссылки на лекцию:</h4>
+<h4>Ссылки на материалы:</h4>
 
 - [PDF](https://github.com/MelLain/mipt-python/blob/master/lectures/pdf/mipt-python-ml.pdf)
 - [Jupyter Notebook](https://github.com/MelLain/mipt-python/blob/master/lectures/src/mipt-python-ml.ipynb)
