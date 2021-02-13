@@ -14,4 +14,4 @@ __Правила курса__:
 
 <h2>Лекции</h2>
 
-1. [Введение в язык Python, встроенные типы данных, модель памяти]https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/01-intro.ipynb)
+1. [Введение в язык Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/01-intro.ipynb)
