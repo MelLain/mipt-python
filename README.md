@@ -16,10 +16,6 @@ __Правила курса__:
 - [Задание 2](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-oop.ipynb)
 - [Задание 3](https://github.com/MelLain/mipt-python/blob/master/tasks/mipt-python-task-ml.ipynb)
 
-<h4>Результаты выполнения практических заданий:</h4>
-
-- [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1xnf1n7dusbb_k_USNXhCHTvQxmhcNIgyX6LaluCg2ek/edit?usp=sharing)
-
 <h2>Тема 1: Введение в язык программирования Python</h2>
 
 <h4>Содержание:</h4>
