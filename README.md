@@ -15,8 +15,8 @@ __Правила курса__:
 
 <h4>Лекции</h4>
 
-1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/01-intro.ipynb)
+1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/01-intro.ipynb) ([запись](https://www.youtube.com/watch?v=zLa-BdnlAWU))
 
-2. [Пользовательские и встроенные функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/02-functions.ipynb)
+2. [Пользовательские и встроенные функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/02-functions.ipynb) ([запись](https://www.youtube.com/watch?v=hrETFehgOvM))
 
-3. [Основы ООП, особенности ООП в Python](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/03-classes.ipynb)
+3. [Основы ООП, особенности ООП в Python](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/03-classes.ipynb) ([запись](https://youtu.be/QBFbQjErI5k))
