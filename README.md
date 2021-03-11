@@ -20,3 +20,5 @@ __Правила курса__:
 2. [Пользовательские и встроенные функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/02-functions.ipynb) ([запись](https://www.youtube.com/watch?v=hrETFehgOvM))
 
 3. [Основы ООП, особенности ООП в Python](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/03-classes.ipynb) ([запись](https://youtu.be/QBFbQjErI5k))
+
+4. [Объектно-ориентированное проектирование](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/04-design.ipynb) ([запись](https://www.youtube.com/watch?v=xDulssusOQM))
