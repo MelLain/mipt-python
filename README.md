@@ -26,4 +26,4 @@ __Правила курса__:
 
 5. [Представление, обработка, анализ и визуализация данных](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/05-data.ipynb) ([запись](https://youtu.be/8Zh7OGRdFB0))
 
-6. [Введение в инструменты для машинного обучения]((https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/06-ml.ipynb) ([запись](https://www.youtube.com/watch?v=cbTXOZ_KKNU))
+6. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/06-ml.ipynb) ([запись](https://www.youtube.com/watch?v=cbTXOZ_KKNU))
