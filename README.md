@@ -2,7 +2,7 @@
 
 Курс преподаётся студентам ФУПМ МФТИ, ВМК МГУ и МАИ (3-5 курсы)
 
-__Автор и преподаватель:__ [Мурат Апишев](http://www.machinelearning.ru/wiki/index.php?title=Участник:Mapishev)
+__Авторы и преподаватели:__ [Мурат Апишев](http://www.machinelearning.ru/wiki/index.php?title=Участник:Mapishev), Роман Ищенко
 
 __Правила курса__:
 
