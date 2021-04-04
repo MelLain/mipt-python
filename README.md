@@ -17,6 +17,8 @@ __Правила курса__:
 
 2. [Объектно-ориентированное программирование на языке Python](https://github.com/MelLain/mipt-python/blob/spring-2021/tasks/02-design.ipynb)
 
+3. [Основы анализа данных и машинного обучения в Python](https://github.com/MelLain/mipt-python/blob/spring-2021/tasks/03-data-ml.ipynb)
+
 <h4>Лекции</h4>
 
 1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/01-intro.ipynb) ([запись](https://www.youtube.com/watch?v=zLa-BdnlAWU))
