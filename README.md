@@ -34,3 +34,5 @@ __Правила курса__:
 6. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/06-ml.ipynb) ([запись](https://www.youtube.com/watch?v=cbTXOZ_KKNU))
 
 7. [Виртуальные окружения и контейнеры](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/07-environment.ipynb) ([запись](https://www.youtube.com/watch?v=PC4d1tW_hJU))
+
+8. [Методы повышения эффективности кода на Python](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/08-efficiency.ipynb) ([запись](https://www.youtube.com/watch?v=w3fnI2IHXzU))
