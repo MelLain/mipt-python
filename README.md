@@ -23,6 +23,8 @@ __Правила курса__:
 
 3. [Основы анализа данных и машинного обучения в Python](https://github.com/MelLain/mipt-python/blob/spring-2021/tasks/03-data-ml.ipynb)
 
+4. [Web-сервер для Telegram-бота](https://github.com/MelLain/mipt-python/blob/spring-2021/tasks/04-server.ipynb)
+
 <h4>Лекции</h4>
 
 1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/01-intro.ipynb) ([запись](https://www.youtube.com/watch?v=zLa-BdnlAWU))
