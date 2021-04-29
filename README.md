@@ -41,4 +41,4 @@ __Правила курса__:
 
 8. [Методы повышения эффективности кода на Python](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/08-efficiency.ipynb) ([запись](https://www.youtube.com/watch?v=w3fnI2IHXzU))
 
-9. [Web-разработка на Python](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/09-web.ipynb) ([запись](https://www.youtube.com/watch?v=ly7v6W9-lB8), с 02:17:00)
+9. [Web-разработка на Python](https://github.com/MelLain/mipt-python/blob/spring-2021/lectures/09-web.ipynb) ([запись](https://www.youtube.com/watch?v=ly7v6W9-lB8), с 02:17:35)
