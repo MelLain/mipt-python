@@ -1,0 +1,8 @@
+*/__pycache__
+*~
+lectures/*~
+tasks/*~
+#*
+/tmp/*
+*.ipynb_checkpoints*
+*.html
