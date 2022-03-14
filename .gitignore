@@ -6,3 +6,4 @@ tasks/*~
 /tmp/*
 *.ipynb_checkpoints*
 *.html
+temp.txt
