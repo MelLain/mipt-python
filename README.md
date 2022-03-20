@@ -18,6 +18,7 @@ __Правила курса__:
 <h4>Формулировки практических заданий</h4>
 
 1. [Введение в язык Python](https://github.com/MelLain/mipt-python/blob/spring-2022/tasks/01-intro.ipynb)
+2. [Объектно-ориентированное программирование на языке Python](https://github.com/MelLain/mipt-python/blob/spring-2022/tasks/02-oop.ipynb)
 
 <h4>Лекции</h4>
 
@@ -25,3 +26,4 @@ __Правила курса__:
 2. [Функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/02-functions.ipynb)
 3. [Основы ООП: особенности языка, атрибуты, наследование](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/03-classes.ipynb)
 4. [Основы ООП: типизация и полиморфизм, классы данных](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/04-typing.ipynb)
+5. [Основые ООП: проектирование кода, шаблоны проектирования](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/05-design.ipynb)
