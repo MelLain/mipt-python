@@ -20,8 +20,7 @@ __Правила курса__:
 1. [Введение в язык Python](https://github.com/MelLain/mipt-python/blob/spring-2022/tasks/01-intro.ipynb)
 2. [Объектно-ориентированное программирование на языке Python](https://github.com/MelLain/mipt-python/blob/spring-2022/tasks/02-oop.ipynb)
 3. [Основы анализа данных и машинного обучения в Python](https://github.com/MelLain/mipt-python/blob/spring-2022/tasks/03-data-ml.ipynb)
-
-Дополнительное задание: [Web-сервер для Telegram-бота](https://github.com/MelLain/mipt-python/blob/spring-2022/tasks/04-web.ipynb)
+4. [Web-сервер для Telegram-бота](https://github.com/MelLain/mipt-python/blob/spring-2022/tasks/04-web.ipynb) (дополнительное задание)
 
 <h4>Лекции</h4>
 
