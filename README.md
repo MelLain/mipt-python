@@ -32,3 +32,5 @@ __Правила курса__:
 6. [Представление, обработка, анализ и визуализация данных](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/06-data.ipynb)
 7. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/07-ml.ipynb)
 8. [Методы повышения эффективности кода на Python](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/08-efficiency.ipynb)
+9. [Виртуальные окружения и контейнеры](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/09-environment.ipynb)
+10. [Web-разработка на Python](https://github.com/MelLain/mipt-python/blob/spring-2022/lectures/10-web.ipynb)
