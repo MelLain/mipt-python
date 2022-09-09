@@ -13,8 +13,6 @@ __Правила курса__:
   - хорошо/зачет - 60+ баллов
   - удовлетворительно - 50+ баллов
 
-[__Таблица с результатами__](https://docs.google.com/spreadsheets/d/1lIIA5ahi6cAIVdpbyXT2puJdPGWju-9J99cH_NFf1rI/edit?usp=sharing)
-
 <h4>Формулировки практических заданий</h4>
 
 1. [Введение в язык Python](https://github.com/MelLain/mipt-python/blob/spring-2021/tasks/01-intro.ipynb)
