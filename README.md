@@ -18,8 +18,10 @@ __Правила курса__:
 
 <h4>Формулировки практических заданий</h4>
 
-1. [Введение в язык Python](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/01-intro.ipynb)
-2. [Объектно-ориентированное программирование на языке Python](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/02-oop.ipynb)
+1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/01-intro.ipynb)
+2. [Объектно-ориентированное программирование](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/02-oop.ipynb)
+3. [Основы анализа данных и машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/03-data-ml.ipynb)
+
 
 <h4>Лекции</h4>
 
@@ -28,3 +30,5 @@ __Правила курса__:
 3. [Основы ООП: особенности языка, атрибуты, наследование](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/03-classes.ipynb)
 4. [Основы ООП: типизация и полиморфизм, классы данных](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/04-typing.ipynb)
 5. [Основы ООП: проектирование кода, шаблоны проектирования](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/05-design.ipynb)
+6. [Представление, обработка, анализ и визуализация данных](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/06-data.ipynb)
+7. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/07-ml.ipynb)
