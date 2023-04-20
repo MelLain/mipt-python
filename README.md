@@ -32,3 +32,4 @@
 7. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/07-ml.ipynb)
 8. [Методы повышения эффективности кода](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/08-efficiency.ipynb)
 9. [Управление версиями Python, виртуальные окружения, контейнеры](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/09-environment.ipynb)
+10. [Модули и пакеты Python, Web-разработка — клиентская часть](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/10-web-intro.ipynb)
