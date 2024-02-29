@@ -13,25 +13,22 @@
   - хорошо/зачет - 55+ баллов
   - удовлетворительно - 45+ баллов
 
-[**Таблица с результатами**](https://docs.google.com/spreadsheets/d/1WyFBXy_dd8_Or8GMdSY-4I-N65bi76XBLyvnGtRIzKs/edit?usp=sharing)
+[**Таблица с результатами**]()
 
 <h4>Формулировки практических заданий</h4>
 
-1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/01-intro.ipynb)
-2. [Объектно-ориентированное программирование](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/02-oop.ipynb)
-3. [Основы анализа данных и машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/03-data-ml.ipynb)
-4. [Web-сервер для обучения и использования ML-моделей](https://github.com/MelLain/mipt-python/blob/spring-2023/tasks/04-web.ipynb)
+1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2024/tasks/01-intro.ipynb)
 
 <h4>Лекции</h4>
 
-1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/01-intro.ipynb)
-2. [Функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/02-functions.ipynb)
-3. [Основы ООП: особенности языка, атрибуты, наследование](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/03-classes.ipynb)
-4. [Основы ООП: типизация и полиморфизм, классы данных](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/04-typing.ipynb)
-5. [Основы ООП: проектирование кода, шаблоны проектирования](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/05-design.ipynb)
-6. [Представление, обработка, анализ и визуализация данных](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/06-data.ipynb)
-7. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/07-ml.ipynb)
-8. [Методы повышения эффективности кода](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/08-efficiency.ipynb)
-9. [Управление версиями Python, виртуальные окружения, контейнеры](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/09-environment.ipynb)
-10. [Модули и пакеты Python, Web-разработка — клиентская часть](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/10-web-intro.ipynb)
-11. [Асинхронность. Web-разработка — серверная часть](https://github.com/MelLain/mipt-python/blob/spring-2023/lectures/11-web-servers.ipynb)
+1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/01-intro.ipynb)
+2. [Функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/02-functions.ipynb)
+3. [Основы ООП: особенности языка, атрибуты, наследование](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/03-classes.ipynb)
+4. [Основы ООП: типизация и полиморфизм, классы данных]
+5. [Основы ООП: проектирование кода, шаблоны проектирования]
+6. [Представление, обработка, анализ и визуализация данных]
+7. [Введение в инструменты для машинного обучения]
+8. [Методы повышения эффективности кода]
+9. [Управление версиями Python, виртуальные окружения, контейнеры]
+10. [Модули и пакеты Python, Web-разработка — клиентская часть]
+11. [Асинхронность. Web-разработка — серверная часть]
