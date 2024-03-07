@@ -23,7 +23,7 @@
 2. [Функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/02-functions.ipynb)
 3. [Основы ООП: особенности языка, атрибуты, наследование](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/03-classes.ipynb)
 4. [Основы ООП: типизация и полиморфизм, классы данных](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/04-typing.ipynb)
-5. [Основы ООП: проектирование кода, шаблоны проектирования]
+5. [Основы ООП: проектирование кода, шаблоны проектирования](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/05-design.ipynb)
 6. [Представление, обработка, анализ и визуализация данных]
 7. [Введение в инструменты для машинного обучения]
 8. [Методы повышения эффективности кода]
