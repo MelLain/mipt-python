@@ -17,6 +17,7 @@
 
 1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2024/tasks/01-intro.ipynb)
 2. [Объектно-ориентированное программирование](https://github.com/MelLain/mipt-python/blob/spring-2024/tasks/02-oop.ipynb)
+3. [Основы анализа данных и машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2024/tasks/03-data-ml.ipynb)
 
 <h4>Лекции</h4>
 
