@@ -27,7 +27,7 @@
 4. [Основы ООП: типизация и полиморфизм, классы данных](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/04-typing.ipynb)
 5. [Основы ООП: проектирование кода, шаблоны проектирования](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/05-design.ipynb)
 6. [Представление, обработка, анализ и визуализация данных](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/06-data.ipynb)
-7. [Введение в инструменты для машинного обучения]
+7. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/07-ml.ipynb)
 8. [Методы повышения эффективности кода]
 9. [Управление версиями Python, виртуальные окружения, контейнеры]
 10. [Модули и пакеты Python, Web-разработка — клиентская часть]
