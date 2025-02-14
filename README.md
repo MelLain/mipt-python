@@ -1,0 +1,21 @@
+<h1>Материалы по курсу "Практикум по программированию на языке Python"</h1>
+
+**Авторы и преподаватели:** [Мурат Апишев](https://mellain.github.io), Роман Ищенко
+
+**Правила курса**:
+
+- Формат: лекции + практические задания
+- Три логических блока
+    - Введение в язык
+    - Python для ML
+    - Элементы промышленной разработки
+- Критерии оценивания будут выложены позже
+
+<h4>Формулировки практических заданий</h4>
+
+1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2025/tasks/01-intro.ipynb)
+
+<h4>Лекции</h4>
+
+1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/01-intro.ipynb)
+2. [Функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/02-functions.ipynb)

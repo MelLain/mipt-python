@@ -1,0 +1,16 @@
+*/__pycache__
+*~
+#*
+/tmp/*
+*.ipynb_checkpoints*
+*.html
+.python-version
+*.pkl
+temp.txt
+temp.py
+.env
+mlruns
+lr_project
+mlflow.db
+mlruns.db
+*.svg
