@@ -21,3 +21,4 @@
 2. [Функции, итераторы и генераторы](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/02-functions.ipynb)
 3. [Основы ООП: особенности языка, атрибуты, наследование](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/03-classes.ipynb)
 4. [Инструменты для анализа данных](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/04-ds.ipynb)
+5. [Инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/05-ml.ipynb)
