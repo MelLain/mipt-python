@@ -14,6 +14,7 @@
 <h4>Формулировки практических заданий</h4>
 
 1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2025/tasks/01-intro.ipynb)
+2. [Основы анализа данных и машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2025/tasks/02-ds-ml.ipynb)
 
 <h4>Лекции</h4>
 
