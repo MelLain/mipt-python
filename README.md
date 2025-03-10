@@ -11,6 +11,8 @@
     - Элементы промышленной разработки
 - Критерии оценивания будут выложены позже
 
+<h4>[Результаты практических заданий](https://docs.google.com/spreadsheets/d/1rf7584b7JpEJv_8ihn9tTJv61mOxGAR56VV1QAh5hGs)</h4>
+
 <h4>Формулировки практических заданий</h4>
 
 1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2025/tasks/01-intro.ipynb)
