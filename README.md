@@ -26,3 +26,4 @@
 4. [Инструменты для анализа данных](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/04-ds.ipynb)
 5. [Инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/05-ml.ipynb)
 6. [Основы ООП: типизация и полиморфизм, классы данных, декораторы](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/06-oop.ipynb)
+7. [Основы работы с искусственными нейронными сетями](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/07-nn.ipynb)
