@@ -17,6 +17,7 @@
 
 1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2025/tasks/01-intro.ipynb)
 2. [Основы анализа данных и машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2025/tasks/02-ds-ml.ipynb)
+3. [Основы работы с искусственными нейронными сетями](https://github.com/MelLain/mipt-python/blob/spring-2025/tasks/03-nn.ipynb)
 
 <h4>Лекции</h4>
 
