@@ -29,3 +29,4 @@
 6. [Основы ООП: типизация и полиморфизм, классы данных, декораторы](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/06-oop.ipynb)
 7. [Основы работы с искусственными нейронными сетями](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/07-nn.ipynb)
 8. [Виртуальные окружения и контейнеры](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/08-environment.ipynb)
+9. [Модули в Python, WEB — клиентские библиотеки](https://github.com/MelLain/mipt-python/blob/spring-2025/lectures/09-web-intro.ipynb)
