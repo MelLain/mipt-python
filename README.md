@@ -20,3 +20,4 @@ TBD
 <h4>Лекции</h4>
 
 1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2026/lectures/01-intro.ipynb)
+1. [Функции, итераторы и генераторы](lectures/01-intro.ipynb)
