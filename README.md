@@ -15,10 +15,10 @@
 
 <h4>Формулировки практических заданий</h4>
 
-1. [Введение в язык](01-intro.ipynb)
+1. [Введение в язык](tasks/01-intro.ipynb)
 
 <h4>Лекции</h4>
 
 1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2026/lectures/01-intro.ipynb)
 1. [Функции, итераторы и генераторы](lectures/02-functions.ipynb)
-1. [Основы ООП: особенности языка, атрибуты, наследование](lectures/03-classes.ipynb) + [Справочник Python](lectures)
+1. [Основы ООП: особенности языка, атрибуты, наследование](lectures/03-classes.ipynb) + [Справочник Python](lectures/abregepython-english.pdf)
