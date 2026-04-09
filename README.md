@@ -22,3 +22,7 @@
 1. [Введение в Python, встроенные типы данных, модель памяти](https://github.com/MelLain/mipt-python/blob/spring-2026/lectures/01-intro.ipynb)
 1. [Функции, итераторы и генераторы](lectures/02-functions.ipynb)
 1. [Основы ООП: особенности языка, атрибуты, наследование](lectures/03-classes.ipynb) + [Справочник Python](lectures/abregepython-english.pdf)
+1. [Инструменты для анализа данных](lectures/04-ds.ipynb)
+1. [Инструменты для машинного обучения](lectures/05-ml.ipynb)
+1. [Основы работы с искусственными нейронными сетями](lectures/07-nn.ipynb)
+1. [Основы ООП: типизация и полиморфизм, классы данных, декораторы](lectures/06-oop.ipynb)
